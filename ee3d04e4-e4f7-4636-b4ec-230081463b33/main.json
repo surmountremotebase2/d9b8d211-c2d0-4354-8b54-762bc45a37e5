@@ -1,1 +1,1 @@
-{"allocations": {"GOOG": 25.0, "AMZN": 25.0, "TSLA": 25.0, "XOM": 25.0}, "frequency": 30, "name": "", "period": "days"}
+{"allocations": {"GOOG": 25.0, "AMZN": 25.0, "TSLA": 25.0, "XOM": 25.0}, "frequency": 10, "name": "", "period": "months"}
